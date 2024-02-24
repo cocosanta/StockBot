@@ -57,5 +57,5 @@ print(re_str)
 
 '''
 
-bithumb_apikey = "gAAAAABlwNifnWLY4n79CgP7lxnb8-gTpP2-D3gr1lzc3w9zVTFDHwxR5i2A3HEQTRfISWYsO3zD_BmLR3GcH6tLKqufQaQ95_nKNlVzKQFdY-BV5Pc9wopZLYYCB8DUszg0m-PdqHL2"          # 본인 값으로 변경
-bithumb_secret = "gAAAAABlwNj1cPFn_D9a47jy0fMytvK51SxnK6G5hmjPr8Am6xCCfwlTUdcI4QvdZIjNsfW7kSEE8pzHOHCdL5TVj5_D815ZQKWM4PcNGIQAFlO1iCESkgsUwbksAV4wv3sRoO4AGPuA"          # 본인 값으로 변경
+bithumb_apikey = "gAAAAABl2fBB71TNNsqMJSwbMVgzCPnuOtPLqFn4a6u9jIEb5ZOUvNcIOvVsr9CeXugIdxy4ZwSCGRUDN2TY4-5vhNJ1lDJFmsXt8dybqfOLe2FBOS8XNQvE3uTZj2vYhGwh_YYKrODC"          # 본인 값으로 변경
+bithumb_secret = "gAAAAABl2fBBrxYvBkkGuxo7tGc1mj-4mPmTu-TlKg4nVb9N3gGmRdhztGyFM0-759MAklvZrmCubsP2BnmKGagQJrIFUrwpuH7oUcREikaf_Y5P2xn40fQTbotEw8CGV68lBGUGh2dG"          # 본인 값으로 변경

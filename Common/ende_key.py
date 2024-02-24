@@ -12,4 +12,4 @@ print(Key)
 '''
 
 #### Bithumb ende_key
-ende_key = b'e60FoElc9gROZFnq7HPkN5-BtoTzJw0CEQQgI2xUBS4='
+ende_key = b'U9oGO1Y1x-kW78SHEOU00iMjd19Udryx2v-sTAglVC8='
